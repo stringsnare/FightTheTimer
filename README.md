@@ -1,14 +1,19 @@
 # Fight The Timer
 A retro arcade-style Pomodoro timer inspired by classic fighting games. Runs fully offline with customizable avatars, colors, round sounds, and fighter names — plus simple built-in project time tracking. Inspired by fighting games and old-school UI, built with Python + PyQT.
 
+## Website: https://stringsnare.github.io/FightTheTimer
+
 ---
-*To unlock project tracking, please consider supporting by purchasing an unlock code: https://stringsnare.gumroad.com
+
+*Please consider supporting by purchasing the full version which includes Project Tracking (via unlock code): https://stringsnare.gumroad.com
 Your support helps me (and my cats!) keep improving this project — I have many great feature ideas. THANK YOU!*
 
-Website: https://stringsnare.github.io/FightTheTimer
+---
 
 ## Full video demo
 https://www.youtube.com/watch?v=I7rQjfO6ur8
+
+---
 
 ## How to unlock
 
