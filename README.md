@@ -1,5 +1,5 @@
 # Fight The Timer
-A retro arcade-style Pomodoro timer inspired by classic fighting games. Runs fully offline with customizable avatars, colors, round sounds, and fighter names — plus simple built-in project tracking. Inspired by fighting games and old-school UI, built with Python + PyQT.
+A retro arcade-style OBS-friendly pomodoro productivity timer inspired by classic fighting games. Runs fully offline with customizable avatars, colors, round sounds, and fighter names — plus simple built-in Project Tracking. Inspired by fighting games and old-school UI, built with Python + PyQT.
 
 ## Website: https://stringsnare.github.io/FightTheTimer
 
