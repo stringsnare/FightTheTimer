@@ -11,13 +11,21 @@ background: linear-gradient(135deg,
     #ff4da6 80%,  /* hot pink */
     #020410 100%  /* black */
 );
-            background-size: 200% 200%;
+            animation: fadeInBody 1s ease;
+                background-size: 200% 200%;
             animation: gradientBG 5s ease infinite;
+   
+}
+@keyframes fadeInBody {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
         }
 
         @keyframes gradientBG {
             0% {background-position: 0% 50%;}
-            50% {background-position: 100% 50%;}
+            50% {background-position: 100% 100%;}
             100% {background-position: 0% 50%;}
         }
 
@@ -50,8 +58,8 @@ nav a:hover,
     transition: transform 0.2s;
 }
 
-nav a:hover::after {
-    content: " 🥊";
+nav a:hover::before {
+    content: " ";
     animation: glove-bounce 0.5s ease;
 }
 
@@ -148,6 +156,10 @@ font-size: 1.3em;
   border: none;
 }
 
+table tr:hover {
+    background: rgba(255, 77, 166, 0.2);
+    transition: background 0.3s;
+}
 
 
 .btn {
@@ -197,3 +209,4 @@ font-size: 1.3em;
   max-width: 600px;
   animation: slideSpinZoom 3s ease-out;
 }
+
