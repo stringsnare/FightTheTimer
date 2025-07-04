@@ -6,6 +6,7 @@ A retro arcade-style Pomodoro timer inspired by classic fighting games. Runs ful
 ---
 
 *Please consider supporting by purchasing the full version which includes Project Tracking (via unlock code): https://stringsnare.gumroad.com
+
 Your support helps me (and my cats!) keep improving this project — I have many great feature ideas. THANK YOU!*
 
 ---
