@@ -4,17 +4,15 @@
             padding: 0;
             font-family: sans-serif;
             color: white;
-background: linear-gradient(135deg,
+background: linear-gradient(90deg,
     #18e0ff 0%,   /* electric cyan */
     #401FB6 30%,  /* deep purple */
     #6E32C2 55%,  /* grape */
     #ff4da6 80%,  /* hot pink */
     #020410 100%  /* black */
 );
-            animation: fadeInBody 1s ease;
-                background-size: 200% 200%;
-            animation: gradientBG 5s ease infinite;
-   
+           animation: fadeInBody 1s ease, gradientBG 5s ease infinite;
+                background-size: 300% 300%;  
 }
 @keyframes fadeInBody {
     from { opacity: 0; }
@@ -25,7 +23,7 @@ background: linear-gradient(135deg,
 
         @keyframes gradientBG {
             0% {background-position: 0% 50%;}
-            50% {background-position: 100% 100%;}
+            50% {background-position: 100% 50%;}
             100% {background-position: 0% 50%;}
         }
 
@@ -59,7 +57,7 @@ nav a:hover,
 }
 
 nav a:hover::before {
-    content: " ";
+    content: "🥊";
     animation: glove-bounce 0.5s ease;
 }
 
