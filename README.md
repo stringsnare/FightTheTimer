@@ -2,7 +2,7 @@
 A retro arcade-style OBS-friendly, pomodoro-productivity-timer - with simple built-in Project Tracking. Runs fully offline with customizable avatars, colors, round sounds, and fighter names. Inspired by fighting games and old-school UI, built with Python + PyQT.
 
 ## Website: https://stringsnare.github.io/FightTheTimer
-
+## Buy: https://stringsnare.gumroad.com/l/fightthetimer
 ---
 
 *Please consider supporting by purchasing the full version which includes Project Tracking (via unlock code): https://stringsnare.gumroad.com
