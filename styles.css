@@ -63,7 +63,7 @@ nav a:hover::before {
     position: absolute;
     top: 100%;
     left: 50%;
-    translateX(-50%);
+    transform:translateX(-50%);
     transition: all 0.4s;
 }
 
