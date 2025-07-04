@@ -11,7 +11,7 @@ background: linear-gradient(90deg,
     #ff4da6 80%,  /* hot pink */
     #020410 100%  /* black */
 );
-           animation: fadeInBody 1s ease, gradientBG 5s ease infinite;
+           animation: fadeInBody 1s ease, gradientBG 15s ease infinite;
                 background-size: 300% 300%;  
 }
 @keyframes fadeInBody {
