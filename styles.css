@@ -173,5 +173,5 @@ font-size: 1.3em;
   display: block;
   margin: 0 auto;
   max-width: 600px; /* or whatever you use */
-  animation: Zoom 2.5s ease-out;
+  animation: spinZoom 4s ease-out;
 }
