@@ -186,6 +186,26 @@ table tr:hover {
     transform: scale(1.05);
 }
 
+.sticky-premium {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #ff4da6;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 8px;
+    font-family: '8Plus8RegFont', sans-serif;
+    font-size: 1.2em;
+    text-decoration: none;
+    transition: background 0.3s, transform 0.2s;
+    z-index: 1000;
+}
+
+.sticky-premium:hover {
+    background: #ff77bb;
+    transform: scale(1.05);
+}
+
 @keyframes slideSpinZoom {
   0% {
     transform: translateX(-300px) rotate(-720deg) scale(0.5);
