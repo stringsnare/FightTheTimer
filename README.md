@@ -33,7 +33,7 @@ Written instructions:
 
 - Customizable Pomodoro sessions (timer length, breaks, reps)  
 - Animated progress bar + fighter name + round counter  
-- Project tracking with total hours  
+- Project Tracking with total hours  
 - OBS-friendly transparent overlay mode  
 - Sound effects on start, break, final round, etc  
 - Settings for fonts, colors, avatars, and more
