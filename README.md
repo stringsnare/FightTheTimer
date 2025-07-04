@@ -3,6 +3,26 @@ A retro arcade-style Pomodoro timer inspired by classic fighting games. Runs ful
 Inspired by fighting games and old-school UI, built with Python + PyQT.
 
 ---
+*To unlock project tracking, please consider supporting by purchasing an unlock code: https://stringsnare.gumroad.com*
+Your support helps me (and my cats!) keep improving this project — I have many great feature ideas. THANK YOU!
+-----------------------------------------------
+Website: https://stringsnare.github.io/FightTheTimer
+-----------------------------------------------
+## Full video demo
+https://www.youtube.com/watch?v=I7rQjfO6ur8
+
+## How to unlock
+
+Watch from 2:28: https://www.youtube.com/watch?v=I7rQjfO6ur8&t=148
+
+Written instructions:  
+1. Purchase a code on Gumroad: https://stringsnare.gumroad.com  
+2. Download the zip and extract it anywhere.  
+3. Right-click the timer (green health bar) > New Project — you’ll be prompted for a code.  
+4. Enter the code. Restart the timer.  
+5. Enjoy tracking your projects!
+
+---
 
 ## Features
 
@@ -11,14 +31,20 @@ Inspired by fighting games and old-school UI, built with Python + PyQT.
 - Project tracking with total hours  
 - OBS-friendly transparent overlay mode  
 - Sound effects on start, break, final round, etc  
-- Fully offline, no accounts needed
+- Settings for fonts, colors, avatars, and more
 
 ---
 
 ## Quick Start
 
-1. **Download the latest release** from the [Releases](https://github.com/stringsnare/FightTheTimer/releases) page.
-2. Extract the zip and run `FightTheTimer.exe`.
+1. **Paid version:**  
+Download & unzip the file you received from Gumroad.
+
+2. **Free version:**  
+Download & unzip the latest release from GitHub:  
+https://github.com/stringsnare/FightTheTimer/releases
+
+3. Run `FightTheTimer.exe`.
 
 *Note: On Windows, you may see a SmartScreen warning (unsigned indie app). Click `More info > Run anyway`.*
 
@@ -28,40 +54,38 @@ Inspired by fighting games and old-school UI, built with Python + PyQT.
 
 - Right-click the timer to open the menu:
   - Start / Pause / Resume / Stop
-  - Settings (change duration, colors, avatar)
+  - Settings (duration, colors, avatar)
   - New Project / Open Project
   - Exit
-  - Toggle OBS Mode in Settings for a transparent overlay.
+  - OBS Mode toggle for transparent overlay
 
 ---
 
 ## Project Tracking
 
-- Save time spent on each project and keep a running total of hours.
-- Unlock key available via Gumroad (early access support).
+- Saves time spent on each project.
+- Requires unlock key from Gumroad (currently experimental).
 
 ---
 
 ## Roadmap
 
 - [ ] Make settings UI prettier
-- [ ] Themes and theme customization
+- [ ] Themes & theme customization
 - [ ] Health-bar customization
-- [ ] Distraction blocker abilities
+- [ ] Cloud project backups
 - [ ] Web overlay version
-- [ ] Daily streak / goals
+- [ ] Daily streaks / goals
 
 ---
 
-## Screenshots
+## Contact
 
-*(Add a few screenshots here once you have them!)*
+Have feature requests, suggestions, or annoyances?  
+Reach me on YouTube (stringsnare) or email: fahidguitar@hotmail.com
 
 ---
 
-## Contact / Feedback
+Created by [Fahidd](https://github.com/stringsnare) —
+making music and tools to improve humanity.
 
-Created by [Fahid Din](https://github.com/stringsnare) —  
-
-
-Open to feature requests, suggestions, or bug reports.
