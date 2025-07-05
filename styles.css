@@ -57,7 +57,7 @@ nav a:hover,
     transition: transform 0.2s;
 }
 
-nav a .glove:hover::after {
+nav a .glove {
     position: absolute;
     content: "🥊";
     animation: glove-bounce 0.5s ease; 
@@ -65,6 +65,7 @@ nav a .glove:hover::after {
     left: 50%;
     transform: translateX(-50%);
     transition: all 0.4s;
+    display: none;
 }
 
 @keyframes glove-bounce {
