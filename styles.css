@@ -60,12 +60,16 @@ nav a:hover,
 nav a .glove {
     position: absolute;
     content: "🥊";
-    animation: glove-bounce 0.5s ease; 
     top: 100%;
     left: 50%;
     transform: translateX(-50%);
     transition: all 0.4s;
     display: none;
+}
+
+nav a:hover .glove {
+    display: inline-block;
+    animation: glove-bounce 0.5s ease;
 }
 
 @keyframes glove-bounce {
