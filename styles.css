@@ -58,20 +58,19 @@ nav a:hover,
 }
 
 nav a:hover::after {
+    position: absolute;
     content: "🥊";
     animation: glove-bounce 0.5s ease;
-    position: absolute;
     top: 100%;
     left: 50%;
-    transform:translateX(-50%);
     transition: all 0.4s;
 }
 
 
 @keyframes glove-bounce {
-    0% { transform: translateY(0); }
-    50% { transform: translateY(-5px); }
-    100% { transform: translateY(0); }
+    0% { transform: translateX(50%) translateY(0); }
+    50% { transform: translateX(50%) translateY(-5px); }
+    100% { transform: translateX(50%) translateY(0); }
 }
 
 
