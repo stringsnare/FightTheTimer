@@ -257,15 +257,15 @@ table tr:hover {
 
 
 
-nav {
+nav a {
   text-decoration: none;
   position: relative;
   transition: all 0.5s ease;
   text-shadow: none;
 }
 
-nav::before,
-nav::after {
+nav a::before,
+nav a::after {
   content: attr(data-text);
   position: absolute;
   top: 0;
@@ -279,16 +279,16 @@ nav::after {
   transition: all 0.5s ease;
 }
 
-nav::before {
+nav a::before {
   clip-path: inset(0 100% 0 0);
   text-shadow: 2px 0 #ff00e1, -2px 0 #00f3ff;
 }
 
-nav::after {
+nav a::after {
   clip-path: inset(0 0 0 100%);
   text-shadow: 0 2px #ff00e1, 0 -2px #00f3ff;
 }
 
-nav:hover {
+nav a:hover {
   text-shadow: 2px 0 #ff00e1, -2px 0 #00f3ff, 0 2px #ff00e1, 0 -2px #00f3ff;
 }
