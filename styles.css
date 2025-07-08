@@ -313,6 +313,10 @@ nav a:hover {
   transform: scale(1.05);
 }
 
+.feature-card:hover p{
+  opacity: 1;
+}
+
 .feature-card img {
   width: 48px;
   height: 48px;
@@ -327,6 +331,8 @@ nav a:hover {
 }
 
 .feature-card p {
+    opacity: 0;
+    transition: opacity 0.3s;
   font-family: '8Plus8RegFont', sans-serif;
   font-size: 0.8em;
   margin: 0;
