@@ -205,7 +205,7 @@ table tr:hover {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background: #e7ff49;
+    background: #c9ff05;
     color: white;
     padding: 15px 25px;
     border-radius: 8px;
@@ -217,7 +217,7 @@ table tr:hover {
 }
 
 .sticky-premium:hover {
-    background: #ff77bb;
+    background: #c9ff05ba;
     transform: scale(1.05);
 }
 
@@ -347,7 +347,7 @@ nav a:hover {
 .feature-card p {
 
   font-family: '8Plus8RegFont', sans-serif;
-  font-size: 1.0em;
+  font-size: 1.1em;
   margin: 0;
 }
 
@@ -455,7 +455,7 @@ nav a:hover {
     display:inline-block;
     margin: 0 10px;
     padding: 12px 24px;
-    background: #433be3b1;
+    background: #10bfff;
     color: #fff;
     font-family: 'PressStartFont', sans-serif;
     font-size: 0.9em;
@@ -465,7 +465,7 @@ nav a:hover {
 }
 
 .choice-buttons a:hover{ 
-    background: #ff77bb;
+    background: #3cffa4;
     transform: scale(1.1);
 }
 
