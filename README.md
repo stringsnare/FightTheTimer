@@ -3,6 +3,7 @@ A retro arcade-style OBS-friendly, pomodoro-productivity-timer - with simple bui
 
 ## Website: https://stringsnare.github.io/FightTheTimer
 ## Buy: https://stringsnare.gumroad.com/l/fightthetimer
+## Free: Check Releases page
 ---
 
 *Please consider supporting by purchasing the full version which includes Project Tracking (via unlock code): https://stringsnare.gumroad.com
