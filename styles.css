@@ -236,7 +236,7 @@ table tr:hover {
     padding: 15px 25px;
     border-radius: 8px;
     font-family: '8Plus8RegFont', sans-serif;
-    font-size: 1.2em;
+    font-size: 1.0em;
     text-decoration: none;
     transition: background 0.3s, transform 0.2s;
     z-index: 1000;
